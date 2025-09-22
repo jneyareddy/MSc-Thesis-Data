@@ -40,6 +40,6 @@ DEG visualizations
 
 GO and KEGG enrichment graphs
 
-Significance
+**Significance**
 
 These resources provide a foundation for future experimental and bioinformatics research aimed at leveraging the biotechnological applications of non-Saccharomyces yeasts and microalgal species.

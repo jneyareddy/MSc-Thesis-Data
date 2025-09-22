@@ -12,6 +12,13 @@ Chlorella sorokiniana
 
 These species, with wine-related origins, play important roles in wine fermentation and winery wastewater biotechnology. Despite the availability of genomic data, recent annotation data for these strains is lacking, limiting the exploitation of other omics datasets and their biotechnological potential. This work aimed to address that gap by producing improved genome annotations. The bioinformatics pipeline in this study assembles transcriptomes and evaluates sequencing data quality, performs structural and functional annotation using MAKER and eggNOG-mapper, and validates the improved annotations via differential gene expression and functional enrichment to assess biological relevance.
 
+All datasets are also available on Zenodo:  
+[Download Torulaspora delbrueckii annotations] https://doi.org/10.5281/zenodo.17177721
+
+[Download Lachancea thermotolerans annotations] https://doi.org/10.5281/zenodo.17177755
+
+[Download Chlorella sorokiniana annotations] https://doi.org/10.5281/zenodo.17177548
+
 **Contents**
 
 **Structural Annotations (MAKER):**

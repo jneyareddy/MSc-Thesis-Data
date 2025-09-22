@@ -10,7 +10,7 @@ Lachancea thermotolerans IWBT Y1240
 
 Chlorella sorokiniana
 
-These species, with wine-related origins, play important roles in wine fermentation and winery wastewater biotechnology. Despite the availability of genomic data, recent annotation data for these strains is lacking, limiting the exploitation of other omics datasets and their biotechnological potential. This work aimed to address that gap by producing improved genome annotations.
+These species, with wine-related origins, play important roles in wine fermentation and winery wastewater biotechnology. Despite the availability of genomic data, recent annotation data for these strains is lacking, limiting the exploitation of other omics datasets and their biotechnological potential. This work aimed to address that gap by producing improved genome annotations. The bioinformatics pipeline in this study assembles transcriptomes and evaluates sequencing data quality, performs structural and functional annotation using MAKER and eggNOG-mapper, and validates the improved annotations via differential gene expression and functional enrichment to assess biological relevance.
 
 **Contents**
 
@@ -26,11 +26,7 @@ BUSCO scores and genome annotation statistics
 
 **Functional Annotations (eggNOG-mapper):**
 
-Tab-delimited and XLSX reports
-
-Predicted protein names, PFAM domains
-
-GO terms, KEGG pathways and modules, COG functional categories
+XLSX reports with predicted protein names, PFAM domains, GO terms, KEGG pathways and modules, and COG functional categories
 
 **Validation Analysis (Torulaspora delbrueckii):**
 

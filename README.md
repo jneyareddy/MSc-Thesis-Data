@@ -1,23 +1,19 @@
 # MSc-Bioinformatics-Thesis-Data
 This repository contains data from my MSc thesis in Bioinformatics and Computational Biology:
-“Improving the genome annotations of non-Saccharomyces yeast and microalgal species.”
+“Improving the genome annotations of non-_Saccharomyces_ yeast and microalgal species.”
 
 The study focuses on generating high-quality genome annotations for:
 
-Torulaspora delbrueckii LO544
+_Torulaspora delbrueckii_ LO544
 
-Lachancea thermotolerans IWBT Y1240
+_Lachancea thermotolerans_ IWBT Y1240
 
-Chlorella sorokiniana
+_Chlorella sorokiniana_
 
-These species, with wine-related origins, play important roles in wine fermentation and winery wastewater biotechnology. Despite the availability of genomic data, recent annotation data for these strains is lacking, limiting the exploitation of other omics datasets and their biotechnological potential. This work aimed to address that gap by producing improved genome annotations. The bioinformatics pipeline in this study assembles transcriptomes and evaluates sequencing data quality, performs structural and functional annotation using MAKER and eggNOG-mapper, and validates the improved annotations via differential gene expression and functional enrichment to assess biological relevance.
+These species, with wine-related origins, play important roles in wine fermentation and winery wastewater biotechnology. Despite the availability of genomic data, recent annotation data for these strains is lacking, limiting the exploitation of other omics datasets and their biotechnological potential. This work aimed to address that gap by producing improved genome annotations. The bioinformatics pipeline in this study assembles transcriptomes, evaluates sequencing data quality, and performs structural and functional annotation using MAKER and eggNOG-mapper. It also validates the improved annotations via differential gene expression and functional enrichment analyses to assess biological relevance.
 
 All datasets are also available on Zenodo:  
-[Download Torulaspora delbrueckii annotations] https://doi.org/10.5281/zenodo.17177721
-
-[Download Lachancea thermotolerans annotations] https://doi.org/10.5281/zenodo.17177755
-
-[Download Chlorella sorokiniana annotations] https://doi.org/10.5281/zenodo.17177548
+[Download annotation data] 
 
 **Contents**
 
@@ -35,7 +31,7 @@ BUSCO scores and genome annotation statistics
 
 XLSX reports with predicted protein names, PFAM domains, GO terms, KEGG pathways and modules, and COG functional categories
 
-**Validation Analysis (Torulaspora delbrueckii):**
+**Validation Analysis (only tested on the _Torulaspora delbrueckii_ strain):**
 
 Differential gene expression (DESeq2 results)
 
@@ -45,4 +41,4 @@ GO and KEGG enrichment graphs
 
 **Significance**
 
-These resources provide a foundation for future experimental and bioinformatics research aimed at leveraging the biotechnological applications of non-Saccharomyces yeasts and microalgal species.
+These resources provide a foundation for future experimental and bioinformatics research aimed at leveraging the biotechnological applications of non-_Saccharomyces_ yeasts and microalgal species.
